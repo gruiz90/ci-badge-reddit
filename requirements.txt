@@ -6,7 +6,7 @@ Flask-DotEnv==0.1.2
 gunicorn==19.9.0
 idna==2.7
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.0
 redis==3.0.1
 requests==2.20.1
